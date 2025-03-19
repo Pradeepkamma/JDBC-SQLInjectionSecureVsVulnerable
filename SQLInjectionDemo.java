@@ -1,5 +1,5 @@
 package jdbcproject.crud.resultsettypes.vulnerable;
-import java.sql.*
+import java.sql.*;
 import java.util.Scanner;
 
 public class SQLInjectionDemo {
