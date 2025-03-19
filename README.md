@@ -1,5 +1,5 @@
 
-# JDBC SQL Injection Demo & Secure Login
+# JDBC SQL Injection Demo & Secure Logi
 
 This project demonstrates **SQL Injection vulnerability** in JDBC and how to prevent it using **PreparedStatement**.
 
