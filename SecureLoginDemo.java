@@ -2,7 +2,7 @@ package jdbcproject.crud.resultsettypes.vulnerable;
 import java.sql.*;
 import java.util.Scanner;
 
-public class SecureLoginDem {
+public class SecureLoginDemo {
     public static void main(String[] args) {
         String url = "jdbc:mysql://localhost:3306/jdbcdemo";  // Change to your database
         String user = "root";  // Change to your DB username
